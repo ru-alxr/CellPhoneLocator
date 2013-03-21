@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CellPhoneLocator</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="whereAmI">Где я?</string>
+    <string name="toSaveData">Зафиксировать</string>
+    <string name="exitApp">Выход</string>
+    <string name="metroStationChooser">Выбрать станцию метро</string>
+    <string name="defaultLabel">\n\n Выбор станции - системное меню. \n\n</string>
+    <string name="title_activity_stations">StationsActivity</string>
+    <string name="nextStationButton">Следующая станция в списке</string>
+    <string name="chooseYourLine">Выберите свою линию</string>
+    <string name="prepareDataFile">New!</string>
+    <string name="left">ID -- </string>
+    <string name="right">ID ++  </string>
+</resources>
